@@ -16,7 +16,7 @@
 
 ## Live Demo
 
-[Live Demo Link](https://github.com/CarlytoDev/CarlytoDev.github.io)
+[Live Demo Link](https://carlytodev.github.io)
 
 
 ## Getting Started
@@ -27,7 +27,7 @@ To get a local copy up and running follow these simple example steps.
 - Clone this project by the command:
 
 ```
-$ git clone https://github.com/Carl2678/CarlytoDev.github.io.git
+$ git clone https://github.com/CarlytoDev/CarlytoDev.github.io.git
 ```
 
 - Then go to the main folder using the next command:
