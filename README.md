@@ -4,7 +4,7 @@
 
 > Description the project.
 
-**For this repository, I' created html templates and styling files in order to built a responsive portfolio desktop version of Microverse project.,for now, I create a page github.**
+**For this repository, I created html templates and styling files in order to built a page github of Microverse project.**
 
 ![alt text](https://github.com/Carl2678/setup-mobile-first-part-2/blob/main/images/Template%201-Mobile-Main.png)
 
