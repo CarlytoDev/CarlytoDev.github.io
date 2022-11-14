@@ -4,7 +4,7 @@
 
 > Description the project.
 
-**For this repository, I' created html templates and styling files in order to built a responsive portfolio desktop version of Microverse project.,for now, i create 2 section.**
+**For this repository, I' created html templates and styling files in order to built a responsive portfolio desktop version of Microverse project.,for now, I create a page github.**
 
 ![alt text](https://github.com/Carl2678/setup-mobile-first-part-2/blob/main/images/Template%201-Mobile-Main.png)
 
@@ -16,7 +16,7 @@
 
 ## Live Demo
 
-[Live Demo Link](https://github.com/Carl2678/portfolio_desktop_version)
+[Live Demo Link](https://github.com/CarlytoDev/CarlytoDev.github.io)
 
 
 ## Getting Started
@@ -27,13 +27,13 @@ To get a local copy up and running follow these simple example steps.
 - Clone this project by the command:
 
 ```
-$ git clone https://github.com/Carl2678/portfolio_desktop_version
+$ git clone https://github.com/Carl2678/CarlytoDev.github.io.git
 ```
 
 - Then go to the main folder using the next command:
 
 ```
-$ cd portfolio-mobile-first.git
+$ cd CarlytoDev.github
 
 
 
